@@ -1,0 +1,11 @@
+---
+project:
+  kind: etl
+etl:
+  path: /helloworld
+  schedule:
+    minute: "20"
+    hour: "*"
+    dayOfTheMonth: "*"
+    month: "*"
+    dayOfTheWeek: "2"

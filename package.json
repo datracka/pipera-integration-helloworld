@@ -1,0 +1,23 @@
+{
+  "name": "integration-helloworld",
+  "version": "1.0.0",
+  "description": "Nodejs Hello World integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BravoGroup/integration-helloworld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BravoGroup/integration-helloworld/issues"
+  },
+  "homepage": "https://github.com/BravoGroup/integration-helloworld#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
